@@ -1,8 +1,5 @@
-Web Scraping - tiriac auto
-Proiectul constă în realizarea unei aplicații de web scraping pentru a extrage
-informații despre produsele de pe site-ul web H&M. Algoritmul este proiectat pentru
-a accesa și a analiza paginile web ale site-ului H&M, mai precis secțiunea dedicată
-rochiilor pentru femei. Folosind tehnici de web scraping, proiectul obține informații
+mpi for python
+Folosind tehnici de web scraping, proiectul obține informații
 precum numele și prețul produselor, pentru a le analiza și a genera date structurate.
 Am utilizat tehnica de web scraping pentru a scoate anumite informatii dintr-un site
 la alegere (tiriac auto - rulate ). Functia deschide site ul, isi colecteaza datele
